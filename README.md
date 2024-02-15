@@ -1,6 +1,6 @@
-# exercises-java
+# Exercises-java
 
-Recursion exercises using Java language
+* Recursion exercises using Java language
 
 ## Getting Started
 
